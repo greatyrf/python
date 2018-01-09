@@ -1,2 +1,3 @@
 import pexpect
+PROMPT=
 
