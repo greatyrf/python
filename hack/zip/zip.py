@@ -1,4 +1,6 @@
-#-*- coding: utf-8 -*- 
+# -*- coding: utf-8 -*-
+#Author：yrf
+#利用zipfile实现zip加密包的解密以及解压
 import zipfile
 import os
 from threading import Thread

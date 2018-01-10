@@ -1,4 +1,6 @@
-##nmap的使用####
+# -*- coding: utf-8 -*-
+#Author：yrf
+#利用nmap实现对某IP的端口扫描
 import nmap
 import optparse
 import sys
